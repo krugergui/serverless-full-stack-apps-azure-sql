@@ -273,3 +273,10 @@ __azurite_db_blob_extent__.json
 __azurite_db_queue__.json
 __azurite_db_queue_extent__.json
 __azurite_db_table__.json
+
+# VS Code Extensions
+.vscode/*
+
+# Backup files
+*.bak
+server_info.txt
